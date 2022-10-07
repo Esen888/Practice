@@ -24,9 +24,13 @@ ggg = 10;
 var gggg = 'qwerty';
 gggg = "qwery";
 
-var heart_symbol = '❤️';
+var smile_symbol ='😀';
 
 var laugh_symbol = '😂';
+var laugh_symbol2 = '😁';
+var laugh_symbol3 = '😆';
+var laugh_symbol4 = '🤣';
+
 
 print(aa);
 print(bb);
@@ -53,6 +57,8 @@ print(gg);
 print(ggg);
 print(gggg);
 
-print(heart_symbol);
-print(laugh_symbol);
+print(smile_symbol);
+print(laugh_symbol2);
+print(laugh_symbol3);
+print(laugh_symbol4);
 }
